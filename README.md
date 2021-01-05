@@ -1,0 +1,3 @@
+# SmartSale
+
+Descrição do Projeto
